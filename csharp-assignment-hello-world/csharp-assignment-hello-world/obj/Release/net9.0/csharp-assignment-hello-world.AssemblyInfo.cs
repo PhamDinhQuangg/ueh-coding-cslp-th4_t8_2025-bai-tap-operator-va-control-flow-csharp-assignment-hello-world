@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-assignment-hello-world")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83db7ed3322ed4749f95fc4bb4e8014696ccf8e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f3694ef6d0cda3bf79b1ac6843219f32c4bff4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-assignment-hello-world")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-assignment-hello-world")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
